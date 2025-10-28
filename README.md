@@ -4,7 +4,7 @@ This repository contains my solution for Task 5, focusing on implementing and ev
 
 ### What did I do?
 
-he goal was to learn about tree-based models, understand concepts like overfitting and feature importance, and compare the performance of a single Decision Tree against a Random Forest ensemble using Scikit-learn.
+The goal was to learn about tree-based models, understand concepts like overfitting and feature importance, and compare the performance of a single Decision Tree against a Random Forest ensemble using Scikit-learn.
 
 ### Decision Tree
 
